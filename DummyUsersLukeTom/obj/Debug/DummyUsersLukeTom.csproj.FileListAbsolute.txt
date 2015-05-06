@@ -53,3 +53,7 @@ c:\users\ocelot1\documents\visual studio 2013\Projects\DummyUsersLukeTom\DummyUs
 c:\users\ocelot1\documents\visual studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.csprojResolveAssemblyReference.cache
 c:\users\ocelot1\documents\visual studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.dll
 c:\users\ocelot1\documents\visual studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.pdb
+C:\Users\Ocelot1\Documents\Visual Studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.Migrations.InitialCreate.resources
+C:\Users\Ocelot1\Documents\Visual Studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.csproj.GenerateResource.Cache
+C:\Users\Ocelot1\Documents\Visual Studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.Migrations.addedname.resources
+C:\Users\Ocelot1\Documents\Visual Studio 2013\Projects\DummyUsersLukeTom\DummyUsersLukeTom\obj\Debug\DummyUsersLukeTom.Migrations.addedage.resources
